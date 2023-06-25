@@ -1,3 +1,3 @@
-#"Programa simplês de SPOOF"
+#"Programa simples de SPOOF"
 
-Para utilizar o programa simplês de SPOOF digite:  -r "IP do roteador" -d "IP do alvo" -m "MAC do alvo"
+Para utilizar o programa simples de SPOOF digite:  -r "IP do roteador" -d "IP do alvo" -m "MAC do alvo"
