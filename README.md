@@ -1,1 +1,1 @@
-#Programas Simplês de Redes.
+#Programas Simples de Redes.
